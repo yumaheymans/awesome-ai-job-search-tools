@@ -56,6 +56,7 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 
 ## Job Search Platforms and Aggregators
 
+- [CareJobs.Now](https://carejobs.now/) - Free job board for US healthcare workers, with 170,000+ openings and the pay each employer posts.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs) - The largest professional network's job board.
 - [Indeed](https://www.indeed.com) - One of the largest general job search aggregators.
 - [Glassdoor](https://www.glassdoor.com) - Job listings paired with company reviews and salary reports.
